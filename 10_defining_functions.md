@@ -257,7 +257,7 @@ called will return the right value below:
 
 ```python
 def superify(name):
-    pass # Fill out the function here instead of `pass`
+   return "super" + name
 
 # Don't edit below this line.
 
